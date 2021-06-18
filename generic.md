@@ -2,7 +2,7 @@
 layout: post
 title: Generic
 description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+image: assets/drone/DJI_0356.JPG
 nav-menu: true
 ---
 
