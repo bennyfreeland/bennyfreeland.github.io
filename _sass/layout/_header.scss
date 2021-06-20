@@ -41,7 +41,7 @@
 					'background-color #{_duration(transition)} ease-in-out',
 					'color #{_duration(transition)} ease-in-out'
 				));
-				background-color: _palette(fg-bold);
+				background-color: _palette(bg);
 				color: _palette(bg);
 				display: inline-block;
 				line-height: 1.65em;
