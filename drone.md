@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Elements
+title: Drone
+description: "Footage from around the world"
 image: assets/images/pic01.jpg
 nav-menu: true
 ---

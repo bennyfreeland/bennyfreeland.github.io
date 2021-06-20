@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
-image: assets/drone/DJI_0356.JPG
+title: Résumé
+description: List of experiences
+image: assets/drone/DJI_0356.jpg
 nav-menu: true
 ---
 
