@@ -1,6 +1,6 @@
 # site settings
-title: 
-subtitle: Benny Freeland 
+title: Benny Freeland
+subtitle: 
 email: youremailaddress@gmail.com
 description: Skier, traveler, drone pilot
 baseurl: "/" # the subpath of your site, e.g. /blog
