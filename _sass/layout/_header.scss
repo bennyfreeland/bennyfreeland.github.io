@@ -13,7 +13,7 @@
 
 	#header {
 		@include vendor('display', 'flex');
-		background-color: _palette(bg-alt);
+		background-color: _palette(accent1);
 		box-shadow: 0 0 0.25em 0 rgba(0,0,0,0.15);
 		cursor: default;
 		font-weight: _font(weight-bold);
@@ -83,6 +83,12 @@
 				&:last-child {
 					padding-right: 1.5em;
 				}
+
+        &[href=""] {
+          &:hover, &:active {
+
+          }
+        }
 
 				&[href="#menu"] {
 					padding-right: 3.325em !important;
