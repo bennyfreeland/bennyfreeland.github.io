@@ -29,7 +29,7 @@
 					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
 				</div>
 			</section>
-			<section>
+			<!-- <section>
 				<div class="contact-method">
 					<span class="icon alt fa-phone"></span>
 					<h3>Phone</h3>
@@ -59,12 +59,35 @@
 					</span>
 				</div>
 			</section>
-		</section>
+		</section> -->
+    <section>
+      <h3>Socials</h3>
+      <ul class="icons">
+        {% for key_value in site.socials %}
+          {% if key_value[1] %}
+            <li>
+              <a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+                <span class="label">{{ key_value[0] }}</span>
+              </a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </section>
+    <section>
+      <ul class="copyright" style="list-style-type: none;">
+				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
+        <li>Customization: <a href="https://rajrkane.com" target="_blank">Raj Kane</a></li>
+				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+				<li>Jekyll integration: <a href="http://andrewbanchi.ch" target="_blank">Andrew Banchich</a></li>
+			</ul>
+
+    </section>
 	</div>
 </section>
 
 <!-- Footer -->
-	<footer id="footer">
+	<!-- <footer id="footer">
 		<div class="inner">
 			<ul class="icons">
 				{% for key_value in site.socials %}
@@ -84,7 +107,7 @@
 
 			</ul>
 		</div>
-	</footer>
+	</footer> -->
 
 </div>
 
@@ -96,3 +119,4 @@
 	<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
 	<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
 	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
+  <script src="https://kit.fontawesome.com/cbae0a1970.js" crossorigin="anonymous"></script>

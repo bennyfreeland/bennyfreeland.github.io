@@ -1,7 +1,7 @@
 # site settings
 title: Benny Freeland
 subtitle: 
-email: youremailaddress@gmail.com
+email: ben.freeland16@gmail.com
 description: Skier, traveler, drone pilot
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -22,14 +22,15 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/bennyfreeland
+  GitHub: 
   GitLab:
   Google-Plus: 
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+  Instagram: https://www.instagram.com/bfreebird97
+  LinkedIn: https://www.linkedin.com/in/ben-freeland-51327a140/
   Twitter: 
   Facebook:
   Slack:
+  Telegram: https://telegram.com # https://t.me/mytelegramusername
 
 # build settings
 markdown: kramdown
