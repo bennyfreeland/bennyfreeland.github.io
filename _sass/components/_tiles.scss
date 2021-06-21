@@ -94,6 +94,10 @@
 				&:before {
 					opacity: 0;
 				}
+
+        &:after {
+          background-color: transparentize(_palette(accent2), 0.25);
+        }
 			}
 
 			&.is-transitioning {
@@ -115,31 +119,31 @@
 
 			&:nth-child(6n - 4) {
 				&:before {
-					background-color: _palette(accent2);
+					background-color: _palette(accent1);
 				}
 			}
 
 			&:nth-child(6n - 3) {
 				&:before {
-					background-color: _palette(accent3);
+					background-color: _palette(accent1);
 				}
 			}
 
 			&:nth-child(6n - 2) {
 				&:before {
-					background-color: _palette(accent4);
+					background-color: _palette(accent1);
 				}
 			}
 
 			&:nth-child(6n - 1) {
 				&:before {
-					background-color: _palette(accent5);
+					background-color: _palette(accent1);
 				}
 			}
 
 			&:nth-child(6n) {
 				&:before {
-					background-color: _palette(accent6);
+					background-color: _palette(accent1);
 				}
 			}
 		}
