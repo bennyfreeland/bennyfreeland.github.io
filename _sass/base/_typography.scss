@@ -52,6 +52,12 @@
     }
   }
 
+  #blogPost {
+    h1:hover {
+      color: _palette(accent2);
+    }
+  }
+
 	strong, b {
 		font-weight: _font(weight-bold);
 	}
