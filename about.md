@@ -21,7 +21,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="drone.html" class="image">
+		<a href="/drone" class="image">
 			<img src="{% link /assets/drone/DJI_0356.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -31,7 +31,7 @@ nav-menu: true
 				</header>
 				<p>I'm Ben and these are some words about the cool stuff I do. I travel a lot and take drone footage of the places I've been to, which I've displayed on this site. If you'd like to check out my drone footage, click below.</p>
 				<ul class="actions">
-					<li><a href="drone.html" class="button">Explore drone footage</a></li>
+					<li><a href="/drone" class="button">Explore drone footage</a></li>
 				</ul>
 			</div>
 		</div>
