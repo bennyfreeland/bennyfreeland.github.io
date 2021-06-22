@@ -39,6 +39,8 @@ markdown: kramdown
 sass:
   style: compressed
 
+permalink: /blog/:title/
+
 exclude:
 - "*.gemspec"
 - LICENSE.md
