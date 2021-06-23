@@ -6,7 +6,7 @@ image: assets/drone/DJI_0356.jpg
 nav-menu: true
 ---
 
-Also available as a <a href="assets/files/sample.pdf">PDF</a>.
+Also available as a <a href="/assets/files/benresume.pdf">PDF</a>.
 
 <section id="resume">
 <h3>Experience</h3>
