@@ -40,7 +40,7 @@ The page is divided into separate sections.
 - To add a new section, simply copy+paste one of the preceding sections (starting with `<div class="box alt" >` and denoted by "Start section" and "End section" comments).
 - To change the name of a section, edit the text within the `<h3>...</h3>` tags and edit the id name in `<div class="row 50% uniform" id="category1">` to match.
 - To add an image, add a new line such as `<div class="6u"><span class="image fit"><img src="{% link assets/drone/DJI_0356.jpg %}" alt="" class="droneImage"/></span></div>` to the section and edit the filepath.
-  - The value `class=6u` refers to the fraction of the width that the image takes up. The width is divided into 12 units, so `6u` means the image takes up half the alloted width and hence two images will fit in that row. You can enter anything from `1u` (1/12 total width) to `12u` (= total width) here.
+  - The value `class="6u"` refers to the fraction of the width that the image takes up. The width is divided into 12 units, so `6u` means the image takes up half the alloted width and hence two images will fit in that row. You can enter anything from `1u` (1/12 total width) to `12u` (= total width) here.
 - To add a video, just paste the iframe. Add a `class` value within the `<iframe>` tag to specify width, just like with images.
 - To link to a specific section, add to the url a pound sign followed by the section name, e.g. `bennyfreeland.github.io/drone/#category1` (this is why editing the id name in a previous step is important).
 
