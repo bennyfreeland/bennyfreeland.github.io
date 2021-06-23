@@ -27,7 +27,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>About me</h3>
+					<h3>About Ben</h3>
 				</header>
 				<p>I'm Ben and these are some words about the cool stuff I do. I travel a lot and take drone footage of the places I've been to, which I've displayed on this site. If you'd like to check out my drone footage, click below.</p>
 				<ul class="actions">
