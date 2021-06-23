@@ -2,7 +2,7 @@
 title: About
 layout: page
 description: 'Get to know me'
-image: assets/images/pic07.jpg
+image: assets/images/IMG_9617 2.JPG
 nav-menu: true
 ---
 
