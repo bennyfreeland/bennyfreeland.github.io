@@ -35,7 +35,7 @@ nav-menu: true
     <iframe class="6u"  height="315" src="https://www.youtube.com/embed/Y4qqPq0f2-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <iframe class="6u"  height="315" src="https://www.youtube.com/embed/Y4qqPq0f2-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<!--Row-->
-	<iframe class="6u" width="560" height="315" src="https://www.youtube.com/embed/3dIVesHEAzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe class="12u" width="560" height="315" src="https://www.youtube.com/embed/3dIVesHEAzc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 </div>
 
