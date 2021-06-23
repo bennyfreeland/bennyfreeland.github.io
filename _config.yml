@@ -6,7 +6,7 @@ description: Skier, traveler, drone pilot
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 4000 Mayflower Hill Dr.
+street_address:
 city: 
 state: 
 zip_code: 
